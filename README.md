@@ -4,5 +4,4 @@
 
 At [The Guardian](https://www.theguardian.com/uk), I’m working on both of its iOS apps: [Feast](https://apps.apple.com/us/app/guardian-feast-cook-explore/id6468674686) and [The Guardian Live](https://apps.apple.com/gb/app/the-guardian-live-world-news/id409128287).
 
-When I’m not coding, I’m spending time with my daughter Nneoma, writing at [The App Daily](https://theappdaily.com), reading, and exploring the world of sound engineering.
-
+When I’m not coding, I’m spending time with my daughter Nneoma, writing at [The App Daily](https://theappdaily.com), practicing amateur martial arts, and exploring the world of sound engineering.
